@@ -1,1 +1,3 @@
-# maps
+# Maps
+
+Maps for Metabase instances.
